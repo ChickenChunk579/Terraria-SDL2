@@ -1,7 +1,3 @@
-[submodule "vendor/SDL"]
-    path = "vendor/SDL"
-    url = "https://github.com/libsdl-org/SDL.git"
-    branch = "15ead9a40d09a1eb9972215cceac2bf29c9b77f6"
 [submodule "vendor/libspng"]
     path = "vendor/libspng"
     url = "https://github.com/randy408/libspng.git"
