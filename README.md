@@ -36,6 +36,8 @@ cd build/wasm
 emcmake cmake .. -GNinja
 `
 
+4. Run `ninja`
+
 4. Open the client.html file in a browser with a webserver.
 
 NOTE: Currently required Memory64 flag to be enabled.
